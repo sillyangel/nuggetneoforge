@@ -1,25 +1,12 @@
+![image](https://cloud-of05tw1vn-hack-club-bot.vercel.app/0nugget_mod.png)
+# Nugget Mod (NeoForge)  
+> [Fabric](https://github.com/sillyangel/nuggetfabric) | [Forge](https://github.com/sillyangel/nugget)
 
-Installation information
-=======
+Nugget Mod is a Minecraft mod that adds "gegagedigedagedago" to the game, the Nugget. The Nugget is a powerful item that can be used to craft new tools, weapons, and armor. The mod also adds new ores to the game, including Nugget Ore, which can be mined to obtain Nuggets. The mod is still in development, but you can download the latest version from the releases page.
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+## Installation
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
-
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+- Get the latest version of the mod from the releases page.  
+- Download and install [NeoForge](https://neoforged.net/).  
+- Copy the mod JAR file to the `mods` folder in your Minecraft directory.  
+- Launch Minecraft with the NeoForge profile.  
